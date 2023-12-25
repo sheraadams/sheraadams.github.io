@@ -1,6 +1,6 @@
 # My Skills
 
-I have included a table of my most utilized skills below. 
+Find some of my most utilized skills in the table below. 
 
 | My Skills              | Years of Experience |
 |---------------------|-------|
