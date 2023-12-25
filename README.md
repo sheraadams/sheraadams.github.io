@@ -107,7 +107,7 @@ As we can see in the chart below, there are too many age categories shown for an
 
 <div align="center">
   <p><strong>More Insighs From this Dataset</strong></p>
-  <img src="https://sheraadams.github.io/assets/img/tableau.jpeg" width="800" alt="CS 340 Additional Insights">
+  <img src="https://sheraadams.github.io/assets/img/tableau.jpeg" width="600" alt="CS 340 Additional Insights">
 </div>
 
 See the [Tableau data here](https://public.tableau.com/app/profile/sheraadamsmedia/viz/AACoutcomes/Dashboard1?publish=yes).
@@ -115,7 +115,7 @@ See the [Tableau data here](https://public.tableau.com/app/profile/sheraadamsmed
 ## High-Fidelity Wireframe for my enhancement
 <div align="center">
   <p><strong>Wireframe Enhancement Proposal</strong></p>
-  <img src="https://sheraadams.github.io/assets/img/wireframe.jpeg" width="800" alt="CS 340 Enhancement">
+  <img src="https://sheraadams.github.io/assets/img/wireframe.jpeg" width="600" alt="CS 340 Enhancement">
 </div>
 
 Note: colors and shapes in this wireframe may vary in implementation and should look more similar to the colors shown in the existing scatter chart above. 
@@ -221,7 +221,7 @@ Note: the flowchart for this application does not change with the new algorithm 
 
 <div align="center">
   <p><strong>Flowchart for the Slideshow</strong></p>
-  <img src="https://sheraadams.github.io/assets/img/slide_flow.jpeg" width="500" alt="Slide Show Flowchart">
+  <img src="https://sheraadams.github.io/assets/img/slide_flow.jpeg" width="400" alt="Slide Show Flowchart">
 </div>  
 
 ## Data Structures Outcomes
@@ -249,7 +249,7 @@ Enhancements Summary:
 
 <div align="center">
   <p><strong>Flowchart for Password Enhancement</strong></p>
-  <img src="https://sheraadams.github.io/assets/img/db_flow.jpg" width="800" alt="CS 340 Enhancement">
+  <img src="https://sheraadams.github.io/assets/img/db_flow.jpg" width="600" alt="CS 340 Enhancement">
 </div>
 
 
