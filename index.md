@@ -222,7 +222,7 @@ Note: the flowchart for this application does not change with the new algorithm 
 
 <div align="center">
   <p><strong>Flowchart for the Slideshow</strong></p>
-  <img src="https://sheraadams.github.io/assets/img/slide_flow.jpeg" width="800" alt="Slide Show Flowchart">
+  <img src="https://sheraadams.github.io/assets/img/slide_flow.jpeg" width="500" alt="Slide Show Flowchart">
 </div>  
 
 ## Data Structures Outcomes
@@ -250,7 +250,7 @@ Enhancements Summary:
 
 <div align="center">
   <p><strong>Flowchart for Password Enhancement</strong></p>
-  <img src="https://sheraadams.github.io/assets/img/db_flow.jpeg" width="800" alt="CS 340 Enhancement">
+  <img src="https://sheraadams.github.io/assets/img/db_flow.jpg" width="800" alt="CS 340 Enhancement">
 </div>
 
 
@@ -267,4 +267,3 @@ Check out my [references](https://sheradams.github.io/references.md) here.
 <div style="text-align: center;">
   <p><strong>Proudly crafted with ❤️ by <a href="https://github.com/sheraadams" target="_blank">Shera Adams</a>.</strong></p>
 </div>
-
