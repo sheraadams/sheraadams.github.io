@@ -1,6 +1,12 @@
 # My Skills
 
-Find some of my most utilized skills in the table below. 
+Find some of my most utilized skills in the table and chart below. 
+
+<div align="center">
+  <p><strong>My skills summary</strong></p>
+  <img src="https://sheraadams.github.io/assets/img/skills.jpeg" width="400" alt="My skills summary: d1">
+</div>
+
 
 | My Skills              | Years of Experience |
 |---------------------|-------|
@@ -24,7 +30,8 @@ Find some of my most utilized skills in the table below.
 | Management          | 8     |
 | Data Analytics      | 4     |
 | Mobile Developement     | 1     |
-| Web Development     | 2     |
+| Web Development     | 1     |
 | Software Testing     | 1     |
 | Social Media Management     | 8     |
+
 
