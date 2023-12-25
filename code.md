@@ -11,9 +11,9 @@ Cum melius tractatos accusamus no, ea assum honestatis vix. Usu eirmod volumus p
 
 Ut praesent democritum vix, verterem assentior comprehensam has id. Nullam erroribus ea sit. Duo propriae laboramus concludaturque ad, ex sit invidunt efficiantur ullamcorper. His vero animal complectitur ne, nonumes reprehendunt per id. Quo ceteros indoctum petentium cu. Te erat singulis nam, idque legere te sed. Ei qui salutatus reprimique temporibus, accusamus definitionem ad sea, ne usu ullum labore senserit.
 
-- See my [Software Engineering and Design and Databases categories](https://sheraadams.github.io/code/#dashboard-code-review) here.
+- See my [Software Engineering and Design and Databases categories](https://sheraadams.github.io/#dashboard-code-review) here.
 
-- See my [Data Structures and Algorithms](https://sheraadams.github.io/code/#slideshow-code-review) here.
+- See my [Data Structures and Algorithms](https://sheraadams.github.io/#slideshow-code-review) here.
 
 ## Dashboard Code Review
 
