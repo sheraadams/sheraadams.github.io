@@ -4,7 +4,7 @@ Find some of my most utilized skills in the table and chart below.
 
 <div align="center">
   <p><strong>My skills summary</strong></p>
-  <img src="https://sheraadams.github.io/assets/img/skills.jpeg" width="400" alt="My skills summary: d1">
+  <img src="https://sheraadams.github.io/assets/img/skills.jpeg" width="600" alt="My skills summary: d1">
 </div>
 
 
