@@ -1,10 +1,6 @@
 # My Skills
 
-<div align="left">
-  <p><strong>Skill Chart</strong></p>
-  <img src="https://sheraadams.github.io/assets/img/skills.jpeg" width="400" alt="Skill chart d4">
-</div>
-
+I have included a table of my most utilized skills below. 
 
 | My Skills              | Years of Experience |
 |---------------------|-------|
@@ -27,3 +23,8 @@
 | Agile Methodology   | 2     |
 | Management          | 8     |
 | Data Analytics      | 4     |
+| Mobile Developement     | 1     |
+| Web Development     | 2     |
+| Software Testing     | 1     |
+| Social Media Management     | 8     |
+
