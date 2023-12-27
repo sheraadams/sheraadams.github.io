@@ -1,53 +1,17 @@
-[SNHU CS499 Capstone Portfolio](https://sheraadams.github.io)
-
-# Professional Assessment 
-
-**Course Outcome 1:** Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
-
-I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision-making throughout my Southern New Hampshire University degree. Following an Agile development approach and iterative development cycles allows us to improve and collaborate with our teams continuously. 
-
-In my work for cs255, we practiced communication within an Agile environment in which various systems models were used to communicate to audiences of diverse backgrounds to support organization decision-making. To accurately model the system, industry best practices like describing the system with a combination of UML sequence diagrams, activity diagrams, use case diagrams, and object model diagrams provide a comprehensive view of how the structural and behavioral aspects should work. In representing these models, it is important to be inclusive and provide accessible documents so that no audience is excluded. 
-
-**Course Outcome 2:** Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
-
-I designed professional-quality communications covering oral, written, and visual communications for a significant number of my classes. This class, as well as CS330, Computational Graphics, allowed me the greatest opportunity to present my work and discuss my approach and reasoning the most. 
-
-For this course, I created a code review video in which I break down the code for each of my capstone projects analyzing the code’s strengths and weaknesses as well as looking for opportunities to enhance the code to conform to software engineering best practices. I enjoyed the opportunity to have a platform for my thought processes and an audience for my hard work, but most of all I am grateful for the opportunity to finally present my work to other software engineering professionals in a focused environment and get real feedback in the context of my career progress. 
-
-Similarly, for CS330, I have developed many online resources for developers to collaborate and learn from my examples and resources. As I completed CS330 which uses C++ and the OpenGL framework API to create graphics applications I found it challenging to configure my projects and I felt that this was the barrier that kept many people from attempting to learn OpenGL. As a result of this, I created some short YouTube tutorials demonstrating how to configure new projects in Visual Studio. 
-
-**Course Outcome 3:** Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
-
-I started programming on my own as a high schooler. I enjoyed the freedom and the dark font themes allowed by the IDE when compared to Microsoft Office. I enjoyed the way I could accomplish whatever I wanted to on the screen with code. When I decided that I wanted to study computer science, my approach changed and simply making things happen no longer was my goal. My goal became to become more abstract. It became more about doing things the appropriate way. Efficiency and following best practices were now the goal. 
-
-I developed the ability to design and assess computing solutions for specific challenges, employing algorithmic principles and adhering to computer science practices and standards to achieve optimal resolution for many situations. I began my programming journey as a self-taught programmer in High School. Then, I was enamored by the dark-themed aesthetics enabled by IDEs like Dreamweaver. However, as my decision to study computer science solidified, my approach evolved. I was no longer content with merely making things happen on the screen with code, my objective shifted towards abstraction and efficiency. The focus transitioned to conforming to software engineering practices while accomplishing what I set out to do in code. 
-
-Completing CS300, Data Structures and Algorithms, was a significant milestone for me as I learned so much about the importance of choosing efficient data structures to accomplish my work. Consider a C++ application that loads courses from a text file, orders them alphabetically, prints a current course list, and allows for insertion and deletion into the course list. If this project were to grow in size enough, simple insertions and deletions could exhaust the system's resources. 
-
-To address the need for efficiency as the project scales, the appropriate data structure should be implemented. For this C++ application, I implemented a binary search tree. A binary search tree is extremely efficient and yields fast search results. Binary search trees are good for applications that prioritize search efficiency and they are great when growth and modification in the future are expected. The binary search tree, however, requires storage for the tree itself and maintenance and it may not be practical for more simple, straightforward applications.
-
-In contrast to this experience, I developed a slideshow Java Swing console app for the class CS250, Software Development Lifecycle. The app, set in the broader scope of a destination vacation website, serves as an introduction to the travel options available on the website. For this application, and the site itself, a simple data structure such as the Java arraylist is a suitable choice as frequent modification to the user's top five destinations is not required.
-
-Throughout my bachelor's degree at SNHU, I managed the inherent trade-offs associated with various design choices considering at each new project if it is worth the sacrifice of simplicity for a technically more efficient structure.  There are many factors to consider in this scenario including the project’s intended use, compatibility considerations, scale, cost, and resources. 
-
-**Course Outcome 4:** Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals.
-
-Throughout my studies at Southern New Hampshire University, I strived to use well-founded and innovative techniques, skills, and tools to implement computer solutions that deliver value to the end user. When I first began my studies, I set out to test each application on at least two computers before submitting my work. This is good practice as it allows us to check for file dependencies that we may not realize exist when developing solely on one system. 
-
-While this approach is good practice, I became more keenly aware of its importance following the completion of CS230, Operating Platforms. This realization prompted me to extend my development beyond just different computers. Now I also develop and test on other operating systems as a general rule. 
-
-For CS330, Computational Graphics I developed and tested C++ OpenGL applications on both Windows and Mac to ensure cross-platform accessibility and functionality. To do this, I developed CMakeLists to enable the building of cross-platform software projects. Additionally, platform-specific libraries should be included to ensure expected behavior and compatibility. 
-
-Further for CS340 I developed a client-server dashboard that allows the end-user to interactively and visually interact with the interface through filters and searches, which ultimately determines the descriptive scatter chart visualization provided for the current data selection. Following the completion of this course, I reproduced this project and the database locally on both Windows and Mac operating platforms. 
-
-**Course Outcome 5:** Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
-
-In my studies, I have developed a security mindset that anticipates software exploits. According to Detlefsen & Maniaco, following a deny-by-default policy “makes your access control model more robust and fewer access control checks will be missed” (2015). This is also referred to as the principle of least privilege, in which users should be given the minimum levels of access and permissions necessary to perform essential tasks. 
-
-In CS230, Software Security, I learned to scan Java code for vulnerabilities using the Maven Dependency Check. Using this tool, we can identify known vulnerabilities reported to the National Vulnerability Database (NVD) and make informed decisions about the inclusion of third-party libraries in our projects. In this course, I also learned the benefits of using secure HTTPS protocols in place of standard HTTP protocols. 
-
-Secure communication practices over HTTPS protocols can prevent many vulnerabilities. As SQL injection is one of the most prevalent vulnerabilities that modern web applications are faced with, strong input validation will be required to guard against malicious database queries. Characters such as * , < , > ,  or /  should be prohibited characters for user input. Also, file upload quotas should be assigned to each user to prevent overload and potential denial of service. Quotas can be assigned to each user and should be kept up to date in the database.  Using built-in security methods and configurations like Spring security configurations can help to protect the API from malicious interactions. Certificates should made mandatory for optimal security. In this course, I learned to generate certificates in the terminal as well as how to establish trust.
-
+<p align="center" style="margin-bottom: 8px; font-family: 'Helvetica Neue', Helvetica, Arial, serif; font-size: 15px; font-weight: bold; color: #666; text-indent: 0;">
+<a href="https://sheraadams.github.io/" style="text-decoration: none; color: #474747;">Home</a>
+<br>  
+<a href="https://sheraadams.github.io/#software-engineering-and-design" style="text-decoration: none; color: #474747;">Software Engineering and Design</a>
+<br>  
+<a href="https://sheraadams.github.io/#data-structures-and-algorithms" style="text-decoration: none; color: #474747;">Data Structures and Algorithms</a>
+<br>
+<a href="https://sheraadams.github.io/#databases" style="text-decoration: none; color: #474747;">Databases</a>
+<br>
+<a href="https://sheraadams.github.io/#professional-assessment" style="text-decoration: none; color: #474747;">Professional Assessment</a>
+<br>
+<a href="https://sheraadams.github.io/code" style="text-decoration: none; color: #474747;">Code Review</a>
+</p>
+	  
 # Capstone Presentation
 - For my [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design) enhancement, I added a pie chart and a bar chart that describe age upon outcome by category and outcome type of the Grazioso Salvare client database. Here are my [enhancements](https://sheraadams.github.io/#software-engineering-and-design-enhancments).
 
