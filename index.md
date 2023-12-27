@@ -3,19 +3,15 @@ layout: default
 title: Home
 ---
 
-<p align="center" style="margin-bottom: 8px; font-family: 'Helvetica Neue', Helvetica, Arial, serif; font-size: 15px; font-weight: bold; color: #666; text-indent: 0;">
-<a href="https://sheraadams.github.io/" style="text-decoration: none; color: #474747;">Home</a>
-<br>  
-<a href="https://sheraadams.github.io/#software-engineering-and-design" style="text-decoration: none; color: #474747;">Software Engineering and Design</a>
-<br>  
-<a href="https://sheraadams.github.io/#data-structures-and-algorithms" style="text-decoration: none; color: #474747;">Data Structures and Algorithms</a>
-<br>
-<a href="https://sheraadams.github.io/#databases" style="text-decoration: none; color: #474747;">Databases</a>
-<br>
-<a href="https://sheraadams.github.io/#professional-assessment" style="text-decoration: none; color: #474747;">Professional Assessment</a>
-<br>
-<a href="https://sheraadams.github.io/code" style="text-decoration: none; color: #474747;">Code Review</a>
+<p align="center">
+# [Home](https://sheraadams.github.io/)  
+# [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design)  
+# [Data Structures and Algorithms](https://sheraadams.github.io/#data-structures-and-algorithms)  
+# [Databases](https://sheraadams.github.io/#databases)  
+# [Professional Assessment](https://sheraadams.github.io/#professional-assessment)  
+# [Code Review](https://sheraadams.github.io/code)
 </p>
+
 
 # Capstone Presentation
 - For my [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design) enhancement, I added a pie chart and a bar chart that describe age upon outcome by category and outcome type of the Grazioso Salvare client database. Here are my [enhancements](https://sheraadams.github.io/#software-engineering-and-design-enhancments).
