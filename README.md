@@ -1,19 +1,16 @@
+[SNHU CS499 Capstone Portfolio](https://sheraadams.github.io)
 
+<p align="center">
 
-<p align="center" style="margin-bottom: 8px; font-family: 'Architects Daughter', Helvetica, Arial, serif; font-size: 22px; font-weight: bold; text-indent: 0;">
-	<a href="https://sheraadams.github.io/" style="text-decoration: none; color: #474747;">Home</a>
-	<br>  
-	<a href="https://sheraadams.github.io/#software-engineering-and-design" style="text-decoration: none; color: #474747;">Software Engineering and Design</a>
-	<br>  
-	<a href="https://sheraadams.github.io/#data-structures-and-algorithms" style="text-decoration: none; color: #474747;">Data Structures and Algorithms</a>
-	<br>
-	<a href="https://sheraadams.github.io/#databases" style="text-decoration: none; color: #474747;">Databases</a>
-	<br>
-	<a href="https://sheraadams.github.io/#professional-assessment" style="text-decoration: none; color: #474747;">Professional Assessment</a>
-	<br>
-	<a href="https://sheraadams.github.io/code" style="text-decoration: none; color: #474747;">Code Review</a>
+# [Home](https://sheraadams.github.io/)  
+# [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design)  
+# [Data Structures and Algorithms](https://sheraadams.github.io/#data-structures-and-algorithms)  
+# [Databases](https://sheraadams.github.io/#databases)  
+# [Professional Assessment](https://sheraadams.github.io/#professional-assessment)  
+# [Code Review](https://sheraadams.github.io/code)
+
 </p>
-	  
+
 # Capstone Presentation
 - For my [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design) enhancement, I added a pie chart and a bar chart that describe age upon outcome by category and outcome type of the Grazioso Salvare client database. Here are my [enhancements](https://sheraadams.github.io/#software-engineering-and-design-enhancments).
 
@@ -354,7 +351,7 @@ I have several recommendations for this project to better align to software engi
 
 The first recommendation that I have aligns with software security best practices (outcome 5). To ensure enhanced security in this application, I recommend removing all deprecated imports from this application. Deprecated imports pose a security risk as they refer to functions or libraries that are no longer supported. In this case, the deprecated JupyterDash library is no longer supported and it has been replaced by the Dash library. To benefit from ongoing bug fixes and to ensure compatibility going forward, it is recommended to access the Dash library and its methods only.
 
-The second recommendation that I have aligns with software security best practices and software engineering best practices utilizing well-founded tools (outcomes 5). The recommendation is to remove all hard-coded passwords from the Python files and add exception handling to inform the user if the password is incorrect or empty. To remove all passwords from the file, we must first change the Jupyter Notebook to a Python file so that we can benefit from the ability to set environment variables in the terminal when using Visual Studio Code. We can set the environment variable within our code and run the code once before removing it. In this same session, using the Visual Studio code terminal, we can export the database password and run the Python file. After this initial setup, our password is saved as an environment variable and it can be accessed as long as we remain in the same terminal session.
+The second recommendation that I have aligns with software security best practices and software engineering best practices utilizing well-founded tools (outcomes 5). The recommendation is to remove all hard-coded passwords from the Python files and add exception handling to inform the user if the password is incorrect or empty. To remove all passwords from the file, we must set an environment variable within our code and run the code once before removing it. In this same session, using the Visual Studio code terminal, we can export the database password and run the Jupyer Notebook file. After this initial setup, our password is saved as an environment variable and it can be accessed as long as we remain in the same terminal session.
 
 The third recommendation that I have aligns with utilizing well-founded tools to align with software engineering best practices (outcome 4). For this recommendation, I suggest adding exception handling to inform the user if the password is incorrect or empty. To do this, we should add try and except statements to the CRUD.py init function. Doing this will allow more graceful termination and will notify the user if the password is incorrect rather than providing the user with errors that result from the empty data frame. Doing this will also prevent unnecessary code processing when there is no data. 
 
@@ -373,7 +370,7 @@ Enhancements Summary:
 Remove deprecated imports
 Recommended changes to ensure security and compatibility:
 Remove the first line: “from jupyter_dash import JupyterDash” as this line is not necessary.
-Update the JupyterDash instance app = JupyterDash(__name__) to app = JupyterDash(__name__).
+Update the JupyterDash instance app = JupyterDash(__name__) to app = Dash(__name__).
 
 ## Enhancement Part 2
 Remove all hard-coded passwords from the main.py Python file as follows in pseudocode:
@@ -511,9 +508,9 @@ pip install matplotlib
 pip install pymongo
 ```
 
-### 7. Run the Python file
+### 7. Run the Jupyer Notebook File
 
-You can easily run the Python file in [Visual Studio Code](https://code.visualstudio.com/download) using the latest Python language extension along with the latest Jupyter Notebook and Python extensions. 
+You can easily run the Jupyter Notebook file in [Visual Studio Code](https://code.visualstudio.com/download) using the latest Python language extension along with the latest Jupyter Notebook and Python extensions. 
 
 ## Course Outcomes
 
@@ -530,7 +527,7 @@ Further, removing all hard-coded passwords and instead setting and retrieving da
 
 I reproduced this project locally with a step-by-step guide detailing the process. This enhancement reduces future workflows and increases efficiency. While the setup process was generally similar, there are important differences in these workflows.
 
-To conform to secure software best practices I removed the hard-coded passwords from the Jupyter Notebook file and used environment variables for all passwords in the program. To accomplish this within the project, I changed the file to a Python file and set the environment variables in the terminal in Visual Studio Code. 
+To conform to secure software best practices I removed the hard-coded passwords from the Jupyter Notebook file and used environment variables for all passwords in the program. To accomplish this within the project, I set environment variables in the terminal in Visual Studio Code. 
 
 Hard coding passwords should always be avoided and sensitive information should be protected and stored safely. Configuration settings like passwords should always be separated from code to prevent accidental mishandling and unauthorized access. 
 
