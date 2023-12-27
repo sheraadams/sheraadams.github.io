@@ -5,12 +5,6 @@ title: Home
 
 # Code Review
 
-Lorem ipsum dolor sit amet, in qui paulo semper interpretaris, mazim nostrud ornatus vis cu, sed ne constituto ullamcorper. Ius errem omittam honestatis no. Vel ne primis delectus petentium, sed alienum efficiendi et. Quo vulputate maiestatis ne, iudico dissentias at usu, an eam iudicabit liberavisse.
-
-Cum melius tractatos accusamus no, ea assum honestatis vix. Usu eirmod volumus persecuti te. Wisi recusabo et vix, ut est quod euripidis. Sed sale paulo exerci eu, voluptua repudiare ea his. Similique definitiones sed ad, quo modus volumus percipit ei. Has te probatus salutatus, eu eos soluta vulputate.
-
-Ut praesent democritum vix, verterem assentior comprehensam has id. Nullam erroribus ea sit. Duo propriae laboramus concludaturque ad, ex sit invidunt efficiantur ullamcorper. His vero animal complectitur ne, nonumes reprehendunt per id. Quo ceteros indoctum petentium cu. Te erat singulis nam, idque legere te sed. Ei qui salutatus reprimique temporibus, accusamus definitionem ad sea, ne usu ullum labore senserit.
-
 - See my [Software Engineering and Design and Databases categories](https://sheraadams.github.io/#dashboard-code-review) here.
 
 - See my [Data Structures and Algorithms](https://sheraadams.github.io/#slideshow-code-review) here.
