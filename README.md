@@ -12,17 +12,17 @@ In my work for cs255, we practiced communication within an Agile environment in 
 
 I designed professional-quality communications covering oral, written, and visual communications for a significant number of my classes. This class, as well as CS330, Computational Graphics, allowed me the greatest opportunity to present my work and discuss my approach and reasoning the most. 
 
-For this course, I created a code review video in which I break down the code for each of my capstone projects analyzing the code’s strengths and weaknesses as well as looking for opportunities to enhance the code to conform to software engineering best practcices. I enjoyed the opportunity to have a platform for my thought processes and an audience for my hard work, but most of all I am grateful for the opportunity to finally present my work to other software engineering professionals in a focused environment and get real feedback in the context of my career progress. 
+For this course, I created a code review video in which I break down the code for each of my capstone projects analyzing the code’s strengths and weaknesses as well as looking for opportunities to enhance the code to conform to software engineering best practices. I enjoyed the opportunity to have a platform for my thought processes and an audience for my hard work, but most of all I am grateful for the opportunity to finally present my work to other software engineering professionals in a focused environment and get real feedback in the context of my career progress. 
 
 Similarly, for CS330, I have developed many online resources for developers to collaborate and learn from my examples and resources. As I completed CS330 which uses C++ and the OpenGL framework API to create graphics applications I found it challenging to configure my projects and I felt that this was the barrier that kept many people from attempting to learn OpenGL. As a result of this, I created some short YouTube tutorials demonstrating how to configure new projects in Visual Studio. 
 
 **Course Outcome 3:** Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
 
-I started programming on my own as a high schooler. I enjoyed the freedom and the dark font themes allowed by the IDE when compared to Microsoft office. I enjoyed the way I could accomplish whatever I wanted to on the screen with code. When I decided that I wanted to study computer science, my approach changed and simply making things happen no longer was my goal. My goal became to become more abstract. It became more about doing things the appropriate way. Efficiency and following best practices were now the goal. 
+I started programming on my own as a high schooler. I enjoyed the freedom and the dark font themes allowed by the IDE when compared to Microsoft Office. I enjoyed the way I could accomplish whatever I wanted to on the screen with code. When I decided that I wanted to study computer science, my approach changed and simply making things happen no longer was my goal. My goal became to become more abstract. It became more about doing things the appropriate way. Efficiency and following best practices were now the goal. 
 
-I developed the ability to design and assess computing solutions for specific challenges, employing algorithmic principles and adhering to computer science practices and standards to achieve optimal resolution for many situations. I began my programming journey as a self-taught programmer in High School. Then, I was enamoured by the dark-themed aesthetics enabled by IDEs like Dreamweaver. However, as my decision to study computer science solidified, my approach evolved. I was no longer content with merely making things happen on the screen with code, my objective shifted towards abstraction and efficiency. The focus transitioned to conforming to software engineering practices while accomplishing what I set out to do in code. 
+I developed the ability to design and assess computing solutions for specific challenges, employing algorithmic principles and adhering to computer science practices and standards to achieve optimal resolution for many situations. I began my programming journey as a self-taught programmer in High School. Then, I was enamored by the dark-themed aesthetics enabled by IDEs like Dreamweaver. However, as my decision to study computer science solidified, my approach evolved. I was no longer content with merely making things happen on the screen with code, my objective shifted towards abstraction and efficiency. The focus transitioned to conforming to software engineering practices while accomplishing what I set out to do in code. 
 
-Completing CS300, Data Structures and Algorithms, was a significant milestone for me as I learned so much about the importance of choosing efficient data structures to accomplish my work. Consider a C++ application that loads courses from a text file, orders them alphabetically, prints a current course list, and allows for insertion and deletion into the course list. If this project were to grow in size enough, simple insertions and deletions could exhaust the systems resources. 
+Completing CS300, Data Structures and Algorithms, was a significant milestone for me as I learned so much about the importance of choosing efficient data structures to accomplish my work. Consider a C++ application that loads courses from a text file, orders them alphabetically, prints a current course list, and allows for insertion and deletion into the course list. If this project were to grow in size enough, simple insertions and deletions could exhaust the system's resources. 
 
 To address the need for efficiency as the project scales, the appropriate data structure should be implemented. For this C++ application, I implemented a binary search tree. A binary search tree is extremely efficient and yields fast search results. Binary search trees are good for applications that prioritize search efficiency and they are great when growth and modification in the future are expected. The binary search tree, however, requires storage for the tree itself and maintenance and it may not be practical for more simple, straightforward applications.
 
@@ -30,7 +30,7 @@ In contrast to this experience, I developed a slideshow Java Swing console app f
 
 Throughout my bachelor's degree at SNHU, I managed the inherent trade-offs associated with various design choices considering at each new project if it is worth the sacrifice of simplicity for a technically more efficient structure.  There are many factors to consider in this scenario including the project’s intended use, compatibility considerations, scale, cost, and resources. 
 
-**Course Outcome 4:** Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
+**Course Outcome 4:** Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals.
 
 Throughout my studies at Southern New Hampshire University, I strived to use well-founded and innovative techniques, skills, and tools to implement computer solutions that deliver value to the end user. When I first began my studies, I set out to test each application on at least two computers before submitting my work. This is good practice as it allows us to check for file dependencies that we may not realize exist when developing solely on one system. 
 
@@ -51,15 +51,15 @@ Secure communication practices over HTTPS protocols can prevent many vulnerabili
 # Capstone Presentation
 - For my [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design) enhancement, I added a pie chart and a bar chart that describe age upon outcome by category and outcome type of the Grazioso Salvare client database. Here are my [enhancements](https://sheraadams.github.io/#software-engineering-and-design-enhancments).
 
-- For my [Data Structures and Algorithms](https://sheraadams.github.io/#data-structures-and-algorithms) enhancement, I increased the efficiency of the CS250 Java slideshow application by using an arraylist in place of conditional branching to control the slideshow view. Here are my [enhancemens](https://sheraadams.github.io/#data-structures-enhancements).
+- For my [Data Structures and Algorithms](https://sheraadams.github.io/#data-structures-and-algorithms) enhancement, I increased the efficiency of the CS250 Java slideshow application by using an ArrayList in place of conditional branching to control the slideshow view. Here are my [enhancemens](https://sheraadams.github.io/#data-structures-enhancements).
 
-- For my [Databases](https://sheraadams.github.io/#databases) enhancement, plan to set up the database and dashboard locally (on both Mac and Windows), outlining this process to improve future workflows. Additionally I plan to implement a field mask to hide confidential fields such as client name from the dashboard data table. Here are my [enhancements](https://sheraadams.github.io/#database-enhancements).
+- For my [Databases](https://sheraadams.github.io/#databases) enhancement, plan to set up the database and dashboard locally (on both Mac and Windows), outlining this process to improve future workflows. Additionally, I plan to implement a field mask to hide confidential fields such as client names from the dashboard data table. Here are my [enhancements](https://sheraadams.github.io/#database-enhancements).
   
 # Software Engineering and Design
 
 ## About the Project
 
-For my sofware engineering enhancement, I chose to focus on the [CS340 Grazioso Salvare interactive dashboard](https://www.youtube.com/watch?v=ZxHuFK2Ne_o). The artifacts for this project include the zipped folder that includes the Python, Jupyter Notebook, and PNG Grazioso logo. The client dashboard employs the Model-View-Controller (MVC) design pattern, using PyMongo for CRUD functions. The architecture includes a MongoDB NoSQL database and Python code for communication. The dashboard is programmed using [MongoDB](https://www.mongodb.com/products/platform/cloud) and [Python](https://python.org/), and it uses [Jupyter Notebook](https://jupyter.org/) and [Dash](https://plotly.com/) to create interactive graphs. The RESTful protocol enhances HTTP and provides a scalable, adaptable, and easy-to-maintain structure. The client dashboard is designed to provide functionality and a user-friendly interface for interacting with a database using creation, updating, reading, reading, and deletion database management functions that utilize the PyMongo software. 
+For my software engineering enhancement, I chose to focus on the [CS340 Grazioso Salvare interactive dashboard](https://www.youtube.com/watch?v=ZxHuFK2Ne_o). The artifacts for this project include the zipped folder that includes the Python, Jupyter Notebook, and PNG Grazioso logo. The client dashboard employs the Model-View-Controller (MVC) design pattern, using PyMongo for CRUD functions. The architecture includes a MongoDB NoSQL database and Python code for communication. The dashboard is programmed using [MongoDB](https://www.mongodb.com/products/platform/cloud) and [Python](https://python.org/), and it uses [Jupyter Notebook](https://jupyter.org/) and [Dash](https://plotly.com/) to create interactive graphs. The RESTful protocol enhances HTTP and provides a scalable, adaptable, and easy-to-maintain structure. The client dashboard is designed to provide functionality and a user-friendly interface for interacting with a database using creation, updating, reading, reading, and deletion database management functions that utilize the PyMongo software. 
 
 <div align="center">
   <p><strong>CS340 Client Server Development Dashboard</strong></p>
@@ -67,7 +67,7 @@ For my sofware engineering enhancement, I chose to focus on the [CS340 Grazioso 
 </div>
 
 ## Software Engineering Artifacts
-The artifacts for this categort include the zipped CS340 Folder including the Python, Jupyter Notebook files, and the Grazioso PNG logo.
+The artifacts for this category include the zipped CS340 Folder including the Python, Jupyter Notebook files, and the Grazioso PNG logo.
 
 
 ## A review of the client's functional requirements: 
@@ -110,7 +110,7 @@ df.drop(columns=['_id'],inplace=True)
 app = JupyterDash(__name__)
 ```
 
-The app.layout section creates the layout of the app using HTML code. In our layout we create a dash table to display the database columns and rows.
+The app.layout section creates the layout of the app using HTML code. In our layout, we create a dash table to display the database columns and rows.
 ```python
     # Format the data table 
     dash_table.DataTable(
@@ -137,7 +137,7 @@ The app.layout section creates the layout of the app using HTML code. In our lay
     ),
 ```
 
-With the **update dashboard()** function we can update the dashboard according to the selected filter type. We have an input callback that takes the filter filterValue as a parameter and we have output callbacks for the data and columns of the data table.
+With the **update dashboard()** function we can update the dashboard according to the selected filter type. We have an input callback that takes the filter as a parameter and we have output callbacks for the data and columns of the data table.
 ```python
 @app.callback(Output('datatable-id', 'data'),
               Output('datatable-id', 'columns'),
@@ -174,7 +174,7 @@ For my enhancement, I would like to add two new charts that describe additional 
 
 My enhancement aligns with outcome 2, developing professional, technically sound communications that are appropriately adapted to specific audiences and contexts. With this enhancement in mind, I considered the audience and asked myself how I could better facilitate the need for thorough, meaningful, and descriptive data visualizations to be utilized by Grazioso Salvare and their client base. By adding additional graphs that describe other important characteristics of our animal shelter database set, we can provide the end user with more well-rounded data from multiple categories. While some clients may be concerned only with the breed distribution of the pets, many clients may wish to understand additional characteristics such as outcome and age upon outcome to make more informed decisions. 
 
-My enhancement also aligns with outcome 1, employing strategies for building collaborative environments that enable diverse audiences to support organizational decision-making. Providing the user with multifaceted insights can facilitate informed decisions in computer science and in business. The interactive dashboard allows the end user to interact through filter selection and search and visualize descriptive charts of the data depending on the selection. My enhancements also facilitate a collaborative environment in which many users from diverse backgrounds and technical experience can explore and understand data effectively through visualizations and graphs, ultimately supporting informed organizational decision-making.
+My enhancement also aligns with outcome 1, employing strategies for building collaborative environments that enable diverse audiences to support organizational decision-making. Providing the user with multifaceted insights can facilitate informed decisions in computer science and business. The interactive dashboard allows the end user to interact through filter selection and search and visualize descriptive charts of the data depending on the selection. My enhancements also facilitate a collaborative environment in which many users from diverse backgrounds and technical experience can explore and understand data effectively through visualizations and graphs, ultimately supporting informed organizational decision-making.
 
 ## Enhancement Summary: 
 - Add a bar chart that describes outcome type by count.
@@ -268,9 +268,9 @@ The Java program is a slideshow console application that uses Swing and JFrame t
 (Southern New Hampshire University, n.d.)
 
 ## Database Artifacts
-The artifacts for this categort include the zipped CS340 Folder including the Python files and the Grazioso PNG logo.
+The artifacts for this category include the zipped CS340 Folder including the Python files and the Grazioso PNG logo.
 
-## A reivew of the clients functional requirements
+## A review of the client's functional requirements
 
  - The application should have an ordered list of destinations from the most popular location to the fifth most popular.
  - Each destination on the list should have the following attributes shown:
@@ -309,7 +309,7 @@ The initComponent() method is used to define each of the components, set display
         this.textPane.setLayout(this.cardText);
 //...
 ```
-We can see that this application uses a conditional statement based on the value of the index “i”. Based on the numerical value of i, the string is reassigned to corresponding string. The string itself is HTML code that formats text or formats and loads an image and lblSlide.setText() function is responsible for updating the slide.
+We can see that this application uses a conditional statement based on the value of the index “i”. Based on the numerical value of i, the string is reassigned to the corresponding string. The string itself is HTML code that formats text or formats and loads an image and lblSlide.setText() function is responsible for updating the slide.
 
 ```java
         for(int i = 1; i <= 5; ++i) {
@@ -352,7 +352,7 @@ In the analysis of the algorithms available to this application, I will compare 
   <img src="https://sheraadams.github.io/assets/img/bigo.jpeg" width="600" alt="Big O Cheatsheet">
 </div>  
 
-Java’s Arraylist is good for fast random access to elements by index, and it preserves the order of elements. In terms of access, the array structure performs very well and has the average run-time space complexity of O(1) to O(N), which is linear (with O(N) being the worst case, in which N is the number of elements in the array). The ArrayList offers advantages in terms of pure runtime and space complexity when frequent insertions and sorting are not needed. If dynamic insertions and deletions are to be expected at runtime, the resulting run-time space complexity would be O(N). For our specific use case of managing a top-five favorites list where sorting is unnecessary, the space complexity remains O(N) due to the straightforward nature of the list. If sorting were required, the expected run-time space complexity could range from O(N) to O(N log N) if using mergesort. 
+Java’s ArrayList is good for fast random access to elements by index, and it preserves the order of elements. In terms of access, the array structure performs very well and has the average run-time space complexity of O(1) to O(N), which is linear (with O(N) being the worst case, in which N is the number of elements in the array). The ArrayList offers advantages in terms of pure runtime and space complexity when frequent insertions and sorting are not needed. If dynamic insertions and deletions are to be expected at runtime, the resulting run-time space complexity would be O(N). For our specific use case of managing a top-five favorites list where sorting is unnecessary, the space complexity remains O(N) due to the straightforward nature of the list. If sorting were required, the expected run-time space complexity could range from O(N) to O(N log N) if using mergesort. 
 
 In choosing a structure for this application, we must consider the context and intended use of the application as well as the resources available and the expected scale for its use. I considered both the ArrayList and the linked list for this application as both of these structures offer the benefits of order preservation and fast access. Ultimately, I decided that the linked list brings additional complexity and overhead storage for the structure itself when this is not necessary for daily insertions and sorting. It is always important to consider the needs of the end-user and the context of the application carefully before choosing an appropriate structure. Additionally, it is always crucial to weigh the trade-offs associated with data structure selection to avoid excessive development and revisions.  
 
@@ -370,7 +370,7 @@ Note: the flowchart for this application does not change with the new algorithm 
 
 **Course Outcome 1:** Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
 
-In my work for this project, my team practiced communication in an Agile environment in which inclusion and iterative development are the expectation. For this project, initially we were tasked with building a travel website in which the user’s Top Five Destinations” would be shown as well as their description, and a hyperlink to the location package. As the project evolved and changed over time, however, the focus shifted from all destinations to “Detox Destinations”. 
+In my work for this project, my team practiced communication in an Agile environment in which inclusion and iterative development are the expectation. For this project, initially, we were tasked with building a travel website in which the user’s Top Five Destinations” would be shown as well as their description, and a hyperlink to the location package. As the project evolved and changed over time, however, the focus shifted from all destinations to “Detox Destinations”. 
 
 Suddenly, it became clear how important iterative development is in software development as elements would need to be changed before the end of the sprint. When the time came, the changes were simple to implement as a result of my adherence to software engineering best practices that produce modular, adaptable code that follows industry standard naming conventions.
 
@@ -380,7 +380,7 @@ I considered the target audience and the context at every point of this applicat
 
 **Course Outcome 3:** Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.
 
-I implemented an algorithmic solution that was appropriate for this software in its intended context. The arraylist is a flexible, lightweight, dynamic structure well suited to the task of primary access and occasional, insertion, sorting, and deleting elements. 
+I implemented an algorithmic solution that was appropriate for this software in its intended context. The ArrayList is a flexible, lightweight, dynamic structure well suited to the task of primary access and occasional, insertion, sorting, and deleting elements. 
 
 # Databases
 For my database enhancement, I chose to focus on the client-server database created for Grazioso Salvare to help identify potential animals for training. This artifact includes the Python and Jupyter files (only Python files are recommended for the final artifact. For more information about this see recommendation #3) created for CS340 along with a png Grazioso Salvare logo. 
@@ -394,7 +394,7 @@ The third recommendation that I have aligns with utilizing well-founded tools to
 
 The fourth recommendation that I have for this dashboard is that a field mask be added to hide confidential client names. This recommendation aligns with developing professional visual communications that are appropriately adapted to specific audiences and contexts (course outcome 2). In the case of Grazioso Salvare’s client dashboard, we know that many of the outcomes include pets that have been adopted, transferred, returned to their owner, or deceased among other outcome types. As some of the pets belong to private owners who may not wish for their pet’s private name to be publicly displayed, a field mask could be used to hide the confidential names of pets that are no longer available for training from new, unrelated clients that do not need to know these pets personal identifying information. Implementing these changes to the dashboard can allow Grazioso Salvare to adhere to industry regulations that require the confidentiality of private client data. 
 
-My final enhancement is an outline of the process to reproduce the dashboard locally on both Windows and Mac operating platforms.  This enhancement reduces future workflows and increases efficiency. While the setup process was generally similar, there are important differences in these workflows as you will observe in the documentation below. This enhancement aligns with course outcome 4, using well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solitions that deliver value and accomplish industry-specific goals. 
+My final enhancement is an outline of the process to reproduce the dashboard locally on both Windows and Mac operating platforms.  This enhancement reduces future workflows and increases efficiency. While the setup process was generally similar, there are important differences in these workflows as you will observe in the documentation below. This enhancement aligns with course outcome 4, using well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals. 
  
 Enhancements Summary:
  - Remove deprecated imports
@@ -421,7 +421,7 @@ ELSE
 	EXIT 
 
 ## Enhancement Part 3
-Add exception handling in the case that the password is not correct. See the following psuedocode as an example:
+Add exception handling in the case that the password is not correct. See the following pseudocode as an example:
 def __init__(self, USER, PASS):      
 	SET host
 	SET username
@@ -437,7 +437,7 @@ def __init__(self, USER, PASS):
 		EXIT
 
 ## Enhancement Part 4
-Add a field mask to hide confidential fields from the database. See the following psuedocode as an example:
+Add a field mask to hide confidential fields from the database. See the following pseudocode as an example:
 
 ```python
 Def mask_field(name):
@@ -449,7 +449,7 @@ Def mask_field(name):
 To set up the database and dashboard application locally we will need to install the [Windows Subsystem for Linux](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/), the [Mongo Shell](https://www.mongodb.com/try/download/shell) and [MongoDB Compass](https://www.mongodb.com/try/download/compass).
 
 ### Mac Installations
- To set up the database and dashboard application locally we will need to install [MongoDB Compass](https://www.mongodb.com/try/download/compass) and [Homebrew](https://brew.sh). We will also install MongoDB community using the terminal and the homebrew package manager:
+ To set up the database and dashboard application locally we will need to install [MongoDB Compass](https://www.mongodb.com/try/download/compass) and [Homebrew](https://brew.sh). We will also install the MongoDB community using the terminal and the homebrew package manager:
 
 Bash:
 ```bash
@@ -458,7 +458,7 @@ brew install mongodb-community
 brew services start mongodb-community
 ```
 
-Similarly, we can stop the mongodb service when we are finished with our work in a testing environment with: 
+Similarly, we can stop the MongoDB service when we are finished with our work in a testing environment with: 
 
 Bash:
 ```bash
@@ -466,7 +466,7 @@ brew services stop mongodb-community
 ```
 
 ## Instructions (All Platforms)
-After completing the preivous installation process depending on your operating system, the following instructions will walk you through importing AAC data into MongoDB, creating a user, and connecting to the database using the Linux shell. To begin working with this software on Windows OS, first follow these instructions to install the bash shell. Otherwise, when working with the environment provided on the Apporto virtual lab, proceed with the following: 
+After completing the previous installation process depending on your operating system, the following instructions will walk you through importing AAC data into MongoDB, creating a user, and connecting to the database using the Linux shell. To begin working with this software on Windows OS, first follow these instructions to install the bash shell. Otherwise, when working with the environment provided on the Apporto virtual lab, proceed with the following: 
 
 ### 1. Import the AAC data
 
@@ -494,7 +494,7 @@ db.createUser({
 Bash:
 ```bash
 # set the environment
-# determine the port number for python connection settings 
+# determine the port number for Python connection settings 
 printenv | grep -i mongo
 # login the user
 MONGO_USER=username
@@ -514,7 +514,7 @@ use AAC
 show collections
 // verify the collection has the csv document imported successfully 
 db.animals.findOne()
-// demonstrate connection to the database using the logged in user
+// demonstrate a connection to the database using the logged-in user
 db.runCommand({connectionStatus:1})
 ```
 
@@ -547,22 +547,22 @@ pip install pymongo
 
 ### 7. Run the Python file
 
-You can easily run the python file in [Visual Studio Code](https://code.visualstudio.com/download) using the latest Python language extension along with the latest Jupyter Notebook and python extensions. 
+You can easily run the Python file in [Visual Studio Code](https://code.visualstudio.com/download) using the latest Python language extension along with the latest Jupyter Notebook and Python extensions. 
 
 ## Course Outcomes
 
-**Course Outcome 4:** Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.
+**Course Outcome 4:** Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value and accomplish industry-specific goals.
 By developing this application locally on both Windows and Mac I used industry best practice and used industry best practices to ensure performance and compatability in diverse computing environments.
 
 **Course Outcome 5:** Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
 
-Giving only the designated user access to read and write to the AAC database prevents unauthorized users from accessing and modifying the database. Additionally stopping the Mongodb service when we are finished frees up resources on the system when the service is no longer being used. 
+Giving only the designated user access to read and write to the AAC database prevents unauthorized users from accessing and modifying the database. Additionally stopping the MongoDB service when we are finished frees up resources on the system when the service is no longer being used. 
 
 Further, removing all hard-coded passwords and instead setting and retrieving database passwords from the environment allows our project to conform to secure software best practices and reduce vulnerabilities that hard-coded configurations can allow. 
 
 ## Database Enhancements
 
-I reproduced this project locally with a step-by-step guide detailing the process. This enhancement reduces future workflows and increases efficiency. While the setup process was generally similar, there are important differences in these worlfows.
+I reproduced this project locally with a step-by-step guide detailing the process. This enhancement reduces future workflows and increases efficiency. While the setup process was generally similar, there are important differences in these workflows.
 
 To conform to secure software best practices I removed the hard-coded passwords from the Jupyter Notebook file and used environment variables for all passwords in the program. To accomplish this within the project, I changed the file to a Python file and set the environment variables in the terminal in Visual Studio Code. 
 
@@ -575,4 +575,5 @@ Check out my [references](https://sheradams.github.io/references.md) here.
 <div style="text-align: center;">
   <p><strong>Proudly crafted with ❤️ by <a href="https://github.com/sheraadams" target="_blank">Shera Adams</a>.</strong></p>
 </div>
+
 
