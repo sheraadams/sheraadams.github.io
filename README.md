@@ -1,10 +1,5 @@
 <p align="center">
   <a href="https://sheraadams.github.io">SNHU CS499 Capstone Portfolio</a><br>
-  <a href="https://sheraadams.github.io/#software-engineering-and-design">Software Engineering and Design</a><br>
-  <a href="https://sheraadams.github.io/#data-structures-and-algorithms">Data Structures and Algorithms</a><br>
-  <a href="https://sheraadams.github.io/#databases">Databases</a><br>
-  <a href="https://sheraadams.github.io/#professional-assessment">Professional Assessment</a><br>
-  <a href="https://sheraadams.github.io/code">Code Review</a>
 </p>
 
 # Capstone Presentation
