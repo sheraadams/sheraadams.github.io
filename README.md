@@ -162,7 +162,7 @@ ELSE
 
 <div align="center">
   <p><strong>Flowchart for Age Upon Outcome</strong></p>
-  <img src="https://sheraadams.github.io/assets/img/swe_flow.jpg" width="400" alt="CS 340 Enhancement">
+  <img src="https://sheraadams.github.io/assets/img/swe_flow.jpg" width="800" alt="CS 340 Enhancement">
 </div>
 
 ## Enhancement Part 2 Pseudocode for pie (age upon outcome) chart
