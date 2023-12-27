@@ -2,12 +2,12 @@
 
 <p align="center">
 
-# [Home](https://sheraadams.github.io/)  
-# [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design)  
-# [Data Structures and Algorithms](https://sheraadams.github.io/#data-structures-and-algorithms)  
-# [Databases](https://sheraadams.github.io/#databases)  
-# [Professional Assessment](https://sheraadams.github.io/#professional-assessment)  
-# [Code Review](https://sheraadams.github.io/code)
+## [Home](https://sheraadams.github.io/)  
+## [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design)  
+## [Data Structures and Algorithms](https://sheraadams.github.io/#data-structures-and-algorithms)  
+## [Databases](https://sheraadams.github.io/#databases)  
+## [Professional Assessment](https://sheraadams.github.io/#professional-assessment)  
+## [Code Review](https://sheraadams.github.io/code)
 
 </p>
 
