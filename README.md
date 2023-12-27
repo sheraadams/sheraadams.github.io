@@ -193,8 +193,6 @@ See the [Tableau data here](https://public.tableau.com/app/profile/sheraadamsmed
   <img src="https://sheraadams.github.io/assets/img/wireframe.jpeg" width="600" alt="CS 340 Enhancement">
 </div>
 
-Note: colors and shapes in this wireframe may vary in implementation and should look more similar to the colors shown in the existing scatter chart above. 
-
 ## Course objectives
 
 **Course Outcome 1.** Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
