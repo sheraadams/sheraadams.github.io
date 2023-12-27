@@ -4,13 +4,33 @@ title: Home
 ---
 
 <p align="center">
-# [Home](https://sheraadams.github.io/)  
-# [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design)  
-# [Data Structures and Algorithms](https://sheraadams.github.io/#data-structures-and-algorithms)  
-# [Databases](https://sheraadams.github.io/#databases)  
-# [Professional Assessment](https://sheraadams.github.io/#professional-assessment)  
-# [Code Review](https://sheraadams.github.io/code)
+
+<h1 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+    <a href="https://sheraadams.github.io/">Home</a>
+</h1>
+
+<h1 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+    <a href="https://sheraadams.github.io/#software-engineering-and-design">Software Engineering and Design</a>
+</h1>
+
+<h1 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+    <a href="https://sheraadams.github.io/#data-structures-and-algorithms">Data Structures and Algorithms</a>
+</h1>
+
+<h1 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+    <a href="https://sheraadams.github.io/#databases">Databases</a>
+</h1>
+
+<h1 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+    <a href="https://sheraadams.github.io/#professional-assessment">Professional Assessment</a>
+</h1>
+
+<h1 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+    <a href="https://sheraadams.github.io/code">Code Review</a>
+</h1>
+
 </p>
+
 
 
 # Capstone Presentation
