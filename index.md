@@ -5,29 +5,29 @@ title: Home
 
 <p align="center">
 
-<h1 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
     <a href="https://sheraadams.github.io/">Home</a>
-</h1>
+</h2>
 
-<h1 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
     <a href="https://sheraadams.github.io/#software-engineering-and-design">Software Engineering and Design</a>
-</h1>
+</h2>
 
-<h1 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
     <a href="https://sheraadams.github.io/#data-structures-and-algorithms">Data Structures and Algorithms</a>
-</h1>
+</h2>
 
-<h1 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
     <a href="https://sheraadams.github.io/#databases">Databases</a>
-</h1>
+</h2>
 
-<h1 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
     <a href="https://sheraadams.github.io/#professional-assessment">Professional Assessment</a>
-</h1>
+</h2>
 
-<h1 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+<h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
     <a href="https://sheraadams.github.io/code">Code Review</a>
-</h1>
+</h2>
 
 </p>
 
