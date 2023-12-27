@@ -6,10 +6,6 @@ title: Home
 <p align="center">
 
 <h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
-    <a href="https://sheraadams.github.io/">Home</a>
-</h2>
-
-<h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
     <a href="https://sheraadams.github.io/#software-engineering-and-design">Software Engineering and Design</a>
 </h2>
 
