@@ -27,8 +27,6 @@ title: Home
 
 </p>
 
-
-
 # Capstone Presentation
 - For my [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design) enhancement, I added a pie chart and a bar chart that describe age upon outcome by category and outcome type of the Grazioso Salvare client database. Here are my [enhancements](https://sheraadams.github.io/#software-engineering-and-design-enhancments).
 
@@ -219,8 +217,6 @@ See the [Tableau data here](https://public.tableau.com/app/profile/sheraadamsmed
   <p><strong>Wireframe Enhancement Proposal</strong></p>
   <img src="https://sheraadams.github.io/assets/img/wireframe.jpeg" width="600" alt="CS 340 Enhancement">
 </div>
-
-Note: colors and shapes in this wireframe may vary in implementation and should look more similar to the colors shown in the existing scatter chart above. 
 
 ## Course objectives
 
