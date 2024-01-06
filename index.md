@@ -427,6 +427,12 @@ Def mask_field(name):
 ### Windows Installations 
 To set up the database and dashboard application locally we will need to install the [Windows Subsystem for Linux](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/), the [Mongo Shell](https://www.mongodb.com/try/download/shell) and [MongoDB Compass](https://www.mongodb.com/try/download/compass).
 
+When we are finished with our work, we can stop the Mongodb service with the following code on Windows:
+
+Bash: 
+```bash
+net stop MongoDB
+```
 ### Mac Installations
  To set up the database and dashboard application locally we will need to install [MongoDB Compass](https://www.mongodb.com/try/download/compass) and [Homebrew](https://brew.sh). We will also install the MongoDB community using the terminal and the homebrew package manager:
 
