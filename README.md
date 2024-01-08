@@ -524,7 +524,7 @@ Hard coding passwords should always be avoided and sensitive information should 
 
 In addition to these enhancements, I added a character mask to hide confidential fields in the case that a client name should be confidential for some uses.
 
-Check out my [references](https://sheradams.github.io/references.md) here.
+Check out my [references](https://sheraadams.github.io/references) here.
 
 <div style="text-align: center;">
   <p><strong>Proudly crafted with ❤️ by <a href="https://github.com/sheraadams" target="_blank">Shera Adams</a>.</strong></p>
