@@ -2,7 +2,7 @@
 
 12019 (n.d.). Nepal. Pixabay. https://pixabay.com/photos/nepal-sunrise-mountains-mountainous-2184940/
 
-652234. (n.d). Wood texture template. https://pixabay.com/photos/wood-texture-template-structure-4754713/
+652234 (n.d). Wood texture template. https://pixabay.com/photos/wood-texture-template-structure-4754713/
 
 Adams, Shera (2022). Protractor. 
 
