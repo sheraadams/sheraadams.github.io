@@ -23,7 +23,7 @@
 
 A code review is an organized analysis of one’s code in the context of the software development community for teaching, testing, and analyzing the code base. Code reviews are a static test that we can perform for our code, and they are a way that we can test the quality of our code while ensuring completeness and adherence to the client’s requirements. Code reviews are an important practice in computer science as they allow us to think critically about our work while allowing outside parties to contribute to and examine our code. Promoting collaboration, code reviews allow us to improve our code by inviting others to share their feedback about our work. 
 
-I conducted an informal code review for this course, reviewing code from three prior courses to analyze the strengths and weaknesses in my code, and proposing enhancements covering software engineering, data structures and algorithms, and databases categories. My enhancements were selected to highlight my proficiency in [all five course outcomes](https://sheraadams.github.io/outcomes). Here is the code review on YouTube:
+I conducted an informal code review for this course, reviewing projects from three prior courses to analyze the strengths and weaknesses in my code, and proposing enhancements covering software engineering, data structures and algorithms, and databases categories. My enhancements were selected to highlight my proficiency in [all five course outcomes](https://sheraadams.github.io/outcomes). Here is the code review on YouTube:
 
 <p align="center">
   <a href="https://youtu.be/RqVvmqJ1A3s">
