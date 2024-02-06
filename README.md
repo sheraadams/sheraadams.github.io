@@ -35,7 +35,7 @@ I conducted an informal code review for this course, reviewing code from three p
 
 ## Software Engineering and Design
 
-For my software engineering enhancement, I enhanced the OpenGL final project created for CS330 Computational Graphics in the Winter Term of 2023. The artifacts for this project include the zipped folder with the C++ code, Visual Studio solution, and the file dependencies and libraries required to run the project on the Windows operating system in Visual Studio 2022. I selected this artifact because it showcases my skill in crafting engaging user experiences and my drive to challenge myself to learn new things. In CS330, I exceeded the project requirements adding custom key controls to enable the user to interact with the scene in engaging ways. Also, for that project, I added key controls to scroll, move, and scale a target object with a key press on the x, y, and z axes. I also added a vector of textures that could be accessed through an index variable and scrolled on an object with a key press. I enhanced the project to meet the Software Engineering category requirements by adding the IrrKlang 3D sound library to add music to the scene. I also implemented the FreeType library, rendering text over the scene that displays the key control options and the real-time x,y, and z coordinates of the target object as it is manipulated by the user. Through my enhancements, I met course outcomes 1, 2, and 4 as follows: 
+For my software engineering enhancement, I enhanced the OpenGL final project created for CS330 Computational Graphics in the Winter Term of 2023. The artifacts for this project include the zipped folder with the C++ code, Visual Studio solution, and the file dependencies and libraries required to run the project on the Windows operating system in Visual Studio 2022. I selected this artifact because it showcases my skill in crafting engaging user experiences and my drive to challenge myself to learn new things. In CS330, I exceeded the project requirements adding custom key controls to enable the user to interact with the scene in engaging ways. Also, for that project, I added key controls to scroll, move, and scale a target object with a key press on the x, y, and z axes. I also added a vector of textures that could be accessed through an index variable and scrolled on an object with a key press. I enhanced the project to meet the Software Engineering category requirements by adding the IrrKlang 3D sound library to add music to the scene. I also implemented the FreeType library, rendering text over the scene that displays the key control options and the real-time x, y, and z coordinates of the target object as it is manipulated by the user. Through my enhancements, I met course outcomes 1, 2, and 4 as follows: 
 
 **Course Outcome 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.**
 
@@ -66,8 +66,7 @@ I did not face any significant challenges with the implementation of the librari
 </div>
 
 ### Software Engineering and Design Artifacts
-The artifacts for this category include the zipped CS340 Folder including the Python, Jupyter Notebook files, and the Grazioso PNG logo.
-  - Please feel free to contact me for a copy of the enhanced artifact.  
+The artifacts for this category include the zipped folder including the C++ and .h files, and the file dependencies needed to run the project in Microsoft Visual Studio. Please feel free to contact me for a copy of the enhanced artifact.  
 
 ## Data Structures and Algorithms
 
@@ -100,7 +99,8 @@ In the end, I learned that it is always important to consider the needs of the e
 </div>
 
 ### Data Structures and Algorithms Artifacts
-The Eclipse Project folder is called SlideShow or Slide Show Enhanced and the SlideShow.jar or SlideShowE.jar.   
+The artifact for this project includes a zipped folder with the .jar executable and the Eclipse Java project.
+
   - You can find the [original artifact](https://github.com/sheraadams/sheraadams.github.io/blob/main/artifacts/DSA_Example.zip) here.  
   - You can find the [enhanced artifact](https://github.com/sheraadams/sheraadams.github.io/blob/main/artifacts/DSA_Enhanced.zip) here.  
 
@@ -138,7 +138,6 @@ Using well-founded tools and practices to align with software engineering best p
   <img src="https://sheraadams.github.io/assets/img/db_flow.jpg" width="600" alt="Database Enhancement Flowchart">
 </div>
 
-
 ### Challenges and Lessons Learned
 
 In the completion of these enhancements, I learned several things. First, I learned to be comfortable setting and retrieving environment variables within Jupyter Notebook files in Visual Studio Code. Also in this process, I faced a minor challenge when testing my local setup on both Mac OS and Windows. As I tested my enhanced dashboard application on multiple devices, I noticed that I had errors on one of the machines, and no errors on the other after updating my app instance from JupyterDash to Dash. With a little investigation, I discovered the cause of the error an outdated Dash library on the problem machine. With Dash libraries older than 2.11, the code will not successfully create the dashboard and JupyterDash would still be required. I was able to resolve the issue by updating the Dash library to the newest version on both machines to finally reproduce the dashboard locally on both machines successfully. My work in this project taught me importance of researching and verifying each of the dependencies used in our code in all circumstances. This project was a valuable experience for me and it increased my confidence working with databases and with Python. 
@@ -150,7 +149,7 @@ In the completion of these enhancements, I learned several things. First, I lear
 </div>
 
 ### Databases Artifacts
-The artifacts for this category include the zipped folder including the Python and Jupyter Notebook files and the Grazioso PNG logo.
+The artifacts for this category include the zipped folder including the Python, Jupyter Notebook files, and the Grazioso PNG logo.
 
   - You can find the [original artifact](https://github.com/sheraadams/sheraadams.github.io/blob/main/artifacts/Database_Example.zip) here.  
   - You can find the [enhanced artifact](https://github.com/sheraadams/sheraadams.github.io/blob/main/artifacts/Database_Enhanced.zip) here.
