@@ -164,10 +164,6 @@ professional-certificates/conception-ux-google
 Plotly. (n.d.). GitHub - plotly/jupyter-dash: OBSOLETE - Dash v2.11+ has Jupyter support built in! GitHub. 
 https://github.com/plotly/jupyter-dash
 
-SPK and Associates. (2022, July 10). Software Engineering Best Practices: Code Reviews – Part 1. SPK And 
-Associates. https://www.spkaa.com/blog/software-engineering-best-practices-code-reviews-
-part-1
-
 Check out my [artifact multimedia references](https://sheraadams.github.io/references) here.
 
 <div style="text-align: center;">
