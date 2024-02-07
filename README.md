@@ -64,7 +64,7 @@ I did not face any significant challenges with the implementation of the librari
 </div>
 
 ### Software Engineering and Design Artifacts
-The artifacts for this category include the zipped folder including the C++ and .h files, and the file dependencies needed to run the project in Microsoft Visual Studio. Please feel free to contact me for a copy of the enhanced artifact.  
+The artifacts for this category include the zipped folder including the C++ and .h files, and the file dependencies needed to run the project in Microsoft Visual Studio. Please feel free to contact me for a copy of the enhanced artifact. You can see my enhancements on [YouTube](https://www.youtube.com/watch?v=Ke0fYih92WI).
 
 ## Data Structures and Algorithms
 
