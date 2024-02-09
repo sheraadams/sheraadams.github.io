@@ -43,9 +43,9 @@ For my enhancement, I rendered text to the screen to indicate the real-time coor
 
 **Course Outcome 2. Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.**
 
-I met outcome 2, delivering professional quality communications, by adding sound and text to the OpenGL application. Rendering the instructions and the x, y, and z coordinates and sizes allows the user to engage with the interactivity controls in a practical way and increases the user’s confidence and understanding of the application. Adding sound and key-press sound controls for the user also increased the scene interactivity while placing the user in control of the audio experience. 
+I met outcome 2, delivering professional quality communications, by adding sound and text to the OpenGL application. Rendering the instructions and the x, y, and z coordinates and sizes allows the user to engage with the interactivity controls in a practical way and increases the user’s confidence and understanding of the application. Adding sound and sound controls for the user also increased the scene interactivity while placing the user in control of the audio experience. 
 
-- **Utilizing skills in OpenGL, C++, sound engineering, and Visual Studio, I delivered professional quality communications through adding sound and sound controls to the application to meet the need for control and interactivity in the context of professional quality software solutions.**  
+- **Utilizing skills in OpenGL, C++, sound engineering, and Visual Studio, I delivered professional quality communications appropriately adapted to specific audiences and contexts.**  
 
 **Course Outcome 4. Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database).**
 
