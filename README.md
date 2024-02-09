@@ -12,7 +12,8 @@
 ## Professional Assessment 
 
 ## ePortfolio Overview
-
+ In this ePortfolio, I have included three projects that I have designed and developed. To fulfill the requirements of this capstone class, I will add enhancements that that demonstrate my skills in software engineering and design, data structures and algorithms, and databases. In this portfolio, I will also use these artifacts to demonstrate my mastery of the five course outcomes. 
+ 
 - For my [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design) enhancement, I added Freetype and IrrKlang libraries to my OpenGL C++ project, adding sound to the scene, and rendering user-friendly instructions and x,y, and z coordinates of a target development object to the screen. Find my [Software Engineering and Design artifacts here](https://sheraadams.github.io/#software-engineering-and-design-artifacts).
 
 - For my [Data Structures and Algorithms](https://sheraadams.github.io/#data-structures-and-algorithms) enhancement, I increased the adaptability and maintainability of the CS250 Java slideshow application by using an ArrayList in place of conditional branching to control the slideshow view. Having an efficient data structure in place will be particularly important as the application scales. Find my [Data Structures and Algorithms artifacts here](https://sheraadams.github.io/#data-structures-and-algorithms-artifacts).
