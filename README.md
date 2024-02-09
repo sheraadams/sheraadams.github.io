@@ -12,7 +12,7 @@
 ## Professional Assessment 
 
 ## ePortfolio Overview
- In this ePortfolio, I have included three projects that I have designed and developed. To fulfill the requirements of this capstone class, I will add enhancements that that demonstrate my skills in software engineering and design, data structures and algorithms, and databases. In this portfolio, I will also use these artifacts to demonstrate my mastery of the five course outcomes. 
+ In this ePortfolio, I have included three projects that I have designed and developed. To fulfill the requirements of this capstone class, I will add enhancements that that demonstrate my skills in software engineering and design, data structures and algorithms, and databases. In this portfolio, I will also use these artifacts to demonstrate my mastery of the five [course outcomes](https://sheraadams.github.io/outcomes).
  
 - For my [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design) enhancement, I added Freetype and IrrKlang libraries to my OpenGL C++ project, adding sound to the scene, and rendering user-friendly instructions and x,y, and z coordinates of a target development object to the screen. Find my [Software Engineering and Design artifacts here](https://sheraadams.github.io/#software-engineering-and-design-artifacts).
 
