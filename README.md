@@ -120,7 +120,7 @@ For my enhancement, I also added a field mask to hide confidential client names.
 
 **Course Outcome 4. Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database).**
 
-Using well-founded tools and practices to align with software engineering best practices, I added exception handling to inform the user if the password is incorrect or empty. I accomplished this by adding try and except statements to the CRUD.py init() function. Doing this allows more graceful termination and notifies the user if the password is incorrect rather than providing the user with errors that result from failed attempts to load the data frame. My solution accomplishes the specific goal of informing the user if credentials are incorrect and preventing the unnecessary execution of code in the case of failed login attempts. 
+Using well-founded tools and practices to align with software engineering best practices, I added exception handling to inform the user if the password is incorrect or empty. I accomplished this by adding try and except statements to the CRUD.py init() function. Doing this allows more graceful termination and notifies the user if the password is incorrect rather than providing the user with errors that result from failed attempts to load the data frame. My solution accomplishes the specific goal of informing the user if credentials are incorrect and preventing the unnecessary execution of code in the case of failed login attempts. You can see the flowchart for this enhancement [here]().
 
 - **My enhancement demonstrates my ability use well-founded and innovative techniques in computing to implement solutions that deliver value and accomplish industry-specific goals using skills in software security, software engineering, Python programming, and databases.**
 
@@ -129,11 +129,6 @@ Using well-founded tools and practices to align with software engineering best p
 **Aligning with software security best practices, I removed the deprecated imports from this application and updated libraries to the newest versions.** According to the Plotly GitHub repository, for versions of Dash greater than or equal to 2.11, Jupyter support is now built-in, meaning that the previously supported Jupyter_Dash library is now obsolete (Plotly, n.d.). Deprecated imports pose a security risk as they do not benefit from bug fixes and security updates as newer and supported methods do. To address this issue, I updated all instances of the JupyterDash methods to Dash methods. Additionally, I removed all hard-coded passwords and instead set environment variables in the terminal session in Visual Studio Code. Anticipating adversarial exploits in software, my enhancement mitigates some of the risks associated with software development and ensures the security of data using software engineering best practices. 
 
 - **My enhancement demonstrates a security mindset that anticipates adversarial exploits in software architecture, mitigates design flaws, and ensures privacy and security of data through skills in software security, software engineering, Python programming, Visual Studio Code, and Jupyter Notebook.**
-
-<div align="center">
-  <p><strong>Database Enhancement Flowchart</strong></p>
-  <img src="https://sheraadams.github.io/assets/img/db_flow.jpg" width="600" alt="Database Enhancement Flowchart">
-</div>
 
 ### Challenges and Lessons Learned
 
