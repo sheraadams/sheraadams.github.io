@@ -66,7 +66,10 @@ I did not face any significant challenges with the implementation of the librari
 </div>
 
 ### Software Engineering and Design Artifacts
-The artifacts for this category include the zipped folder including the C++ and .h files, and the file dependencies needed to run the project in Microsoft Visual Studio. Please feel free to contact me for a copy of the enhanced artifact. You can see my enhancements on [YouTube](https://www.youtube.com/watch?v=Ke0fYih92WI).
+The artifacts for this project include the zipped folder with the C++ code, Visual Studio solution, and the file dependencies and libraries required to run the project on the Windows operating system in Microsoft Visual Studio 2022.
+  - You can find the [original artifact](https://github.com/sheraadams/example/blob/main/SWE_Example.zip) here.  
+  - You can find the [enhanced artifact](https://github.com/sheraadams/example/blob/main/SWE_Enhanced.zip) here.
+  - You can see my enhancements on [YouTube](https://www.youtube.com/watch?v=Ke0fYih92WI) here.
 
 ## Data Structures and Algorithms
 
