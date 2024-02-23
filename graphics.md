@@ -1,4 +1,4 @@
-## Shera Adams C++ Graphics/ Metal / OpenGL projects
+## C++ Graphics/ Metal / OpenGL projects
 
 ### OpenGL /Metal Cross-Platform Game Engine (C, C++, GLSL)
 
