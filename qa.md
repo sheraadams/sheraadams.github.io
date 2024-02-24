@@ -1,4 +1,4 @@
-# SDET Portfolio
+# Software Testing Portfolio
 
 ## JUnit Test Coverage for Appointment Service (Java)
 
