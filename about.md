@@ -7,4 +7,4 @@ Contact me on [linked in](https://www.linkedin.com/in/shera-adams/), check out m
 
 - [Mobile App Work](https://sheraadams.github.io/mobile)
 - [Graphics Engineering / C++ / OpenGL and Metal Work](https://sheraadams.github.io/graphics)
-- [SDET and Testing](https://sheraadams.github.io/qa)
+- [Software Testing and QA](https://sheraadams.github.io/qa)
