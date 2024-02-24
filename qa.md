@@ -1,4 +1,4 @@
-# Software Testing Portfolio
+# Software Testing
 
 ## JUnit Test Coverage for Appointment Service (Java)
 
