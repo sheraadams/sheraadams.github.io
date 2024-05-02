@@ -188,6 +188,7 @@ The artifacts for this category include the zipped folder including the Python, 
   - You can find the [original artifact](https://github.com/sheraadams/sheraadams.github.io/blob/main/artifacts/Database_Example.zip) here.  
   - You can find the [enhanced artifact](https://github.com/sheraadams/sheraadams.github.io/blob/main/artifacts/Database_Enhanced.zip) here.
 
+Find [instructions for setting up the local database here](https://sheraadams.github.io/instructions).
 ## References
 
 Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell. (n.d.). 
