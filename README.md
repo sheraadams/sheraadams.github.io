@@ -13,7 +13,7 @@
 ## Professional Assessment
 Welcome to my CS499 Capstone ePortfolio. On this page, I will showcase some of the work that I have completed as4 a computer science student at Southern New Hampshire University. Completing my coursework and developing this ePortfolio has helped to showcase my strengths and shape my professional goals along the way and I am proud of how much I have learned in this time. My degree has helped me to develop skills in collaborating in a team environment, communicating with stakeholders, in data structures and algorithms, software engineering and database, and software security, satisfying the five course outcomes for this capstone course through my work in courses like Data Structures and Algorithms, Operating Platforms, Software Security, System Analysis and Design, and Mobile Programming and Architecture, among other courses. In this portfolio, I will demonstrate my proficiency in the five computer science program outcomes using my experience in the program overall and then I will provide three projects that cover these outcomes in depth. 
 
-In my studies at SNHU, I gained proficiency in the [five computer science program outcomes](https://sheraadams.github.io/outcomes) as follows:
+In my studies at SNHU, I gained proficiency in the five computer science program [outcomes](https://sheraadams.github.io/outcomes) as follows:
 
 <p align="center">
   <h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
@@ -26,7 +26,7 @@ In my studies at SNHU, I gained proficiency in the [five computer science progra
 </p>
 
 ## ePortfolio Overview
- In this ePortfolio, I have included three projects that I have designed and developed. To fulfill the requirements of this capstone class, I will add enhancements that that demonstrate my skills in software engineering and design, data structures and algorithms, and databases. In this portfolio, I will also use these artifacts to demonstrate my mastery of the five [course outcomes](https://sheraadams.github.io/outcomes).
+ In this ePortfolio, I have included three projects that I have designed and developed. To fulfill the requirements of this capstone class, I will add enhancements that that demonstrate my skills in software engineering and design, data structures and algorithms, and databases. In this portfolio, I will also use these artifacts to demonstrate my mastery of the five course outcomes.
  
 - For my [Software Engineering and Design](https://sheraadams.github.io/#software-engineering-and-design) enhancement, I added Freetype and IrrKlang libraries to my OpenGL C++ project, adding sound to the scene, and rendering user-friendly instructions and x,y, and z coordinates of a target development object to the screen. Find my [Software Engineering and Design artifacts here](https://sheraadams.github.io/#software-engineering-and-design-artifacts).
 
