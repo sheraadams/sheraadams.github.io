@@ -1,1 +1,7 @@
+# Collaboration
 
+**Course Outcome 1**	Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.
+
+I have strengthened my skills in collaborating in a team environment throughout my studies at SNHU. In CS 255, System Analysis and Design, I shared a variety of UML diagrams in my discussions when communicating the functional requirements of a driver’s education and driving lesson booking site project with my classmates. To model the system most accurately in my documentation, I utilized a combination of process models, UML sequence diagrams, activity diagrams, use case diagrams, and object model diagrams.  Utilizing models suited for both technical and non-technical audiences, I provided a comprehensive view of how the structural and behavioral aspects should work from multiple perspectives to give the most holistic picture possible for the system. For each diagram, I created accessible PDFs in LucidChart to ensure greater audience inclusion. 
+
+- **My work in Systems Analysis and Design demonstrated my proficiency in supporting collaborative environments that enable diverse audiences to support decision making with skills in agile methodologies, documentation, and systems modeling.** You can see some of the [systems models that I developed here](https://github.com/sheraadams/Systems-Development-Models/tree/main) and in these [UML use case and activity diagrams](https://sheraadams.github.io/CS255). 
