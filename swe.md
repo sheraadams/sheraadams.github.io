@@ -8,4 +8,4 @@ In the project, I provided practical knowledge regarding best tools for each pla
 
 - **Using skills in documentation, Java, computer science, software testing, Mac OS, Linux, Windows, and mobile devices, I successfully met the need of the client and demonstrated an ability to use well-founded techniques and tools to implement computer solutions that accomplish industry-specific goals.** You can see an example of my work in the following UML class diagram and in the [platform comparison table here](https://sheraadams.github.io/CS230).
 
-- You can also see my software engineering and design enhancements on a [C++ computational graphics project here:](https://sheraadams.github.io/#software-engineering-and-design).
+- You can also see my software engineering and design enhancements on a [C++ computational graphics project here](https://sheraadams.github.io/#software-engineering-and-design).
