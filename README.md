@@ -22,7 +22,7 @@ In my studies at SNHU, I gained proficiency in the five computer science program
 <p align="center">
   <h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
       <a href="https://sheraadams.github.io/collaboration">Collaboration</a><br>
-      <a href="https://sheraadams.github.io/communications">Professional Communications</a><br>
+      <a href="https://sheraadams.github.io/communication">Professional Communications</a><br>
       <a href="https://sheraadams.github.io/dsa">Data Structures and Algorithms</a><br>
       <a href="https://sheraadams.github.io/swe">Software Engineering and Design</a><br>
       <a href="https://sheraadams.github.io/security">Software Security</a><br>
