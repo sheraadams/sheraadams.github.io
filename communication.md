@@ -1,4 +1,4 @@
-# Professional Communication
+# Professional Communications
 
 **Course Outcome 2**	Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts.
 
