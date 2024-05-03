@@ -1,7 +1,7 @@
 <p align="center">
-  <h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+  <h1 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
       <a href="https://sheraadams.github.io">ePoftfolio Home</a><br>
-  </h2>
+  </h1>
 </p>
 
 ## Table of Contents 
