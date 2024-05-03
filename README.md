@@ -1,8 +1,6 @@
 ## Table of Contents 
 <p align="center">
   <h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
-        <a href="https://sheraadams.github.io">ePortfolio</a><br>
-      <a href="https://sheraadams.github.io/#professional-assessment">Professional Assessment</a><br>
       <a href="https://sheraadams.github.io/#code-review">Code Review</a><br>
       <a href="https://sheraadams.github.io/#software-engineering-and-design">Software Engineering and Design</a><br>
       <a href="https://sheraadams.github.io/#data-structures-and-algorithms">Data Structures and Algorithms</a><br>
