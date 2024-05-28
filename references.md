@@ -4,10 +4,6 @@
 
 -652234. (n.d). *Wood texture template.* https://pixabay.com/photos/wood-texture-template-structure-4754713/
 
--Adams, Aaron. (2014). *Original Backing Track* [Video]. YouTube. https://www.youtube.com/watch?v=v_0w8-0QPhI
-
--Adams, Shera. (2022). *Protractor.*
-
 -Austin Animal Center. (2020). *Austin Animal Center Outcomes [Data set].* City of Austin, Texas Open Data Portal. https://doi.org/10.26000/025.000001
 
 -BenRCorner. (n.d.). *Sedona.*  https://pixabay.com/photos/sedona-usa-cactus-nature-america-3628286/
